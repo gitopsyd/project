@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to abstract and implement common common problems found when dealing with git repositories used for storing configuration (GitOps)
+This project aims to abstract and implement common problems found when dealing with git repositories used for storing configuration (GitOps)
 
 These problems include:
 
