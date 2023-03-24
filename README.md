@@ -1,2 +1,2 @@
-# git-opsyd
+# gitopsyd Project
 Main Project. 
